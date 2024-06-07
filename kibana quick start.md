@@ -31,7 +31,7 @@
 
 1. 從左上角主選單中選擇 ```Analytics/Dashboard```
 
-![主選單](./doc/Images/select_Analytics_Dashboard_1.PNG)
+![](./doc/Images/select_Analytics_Dashboard_1.PNG)
 
 2. 切換到第3頁, 可以看到系統內建的```\[Filebeat Nginx\] Access and error logs ECS```, 此為Filebeat提供的Nginx模組LOG儀表版
 
